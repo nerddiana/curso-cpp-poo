@@ -1,0 +1,10 @@
+# Objects
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
